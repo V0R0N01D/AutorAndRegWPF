@@ -1,0 +1,350 @@
+C:\Users\ClassUser\Source\Repos\Autor\Autor\bin\Debug\Autor.exe.config
+C:\Users\ClassUser\Source\Repos\Autor\Autor\bin\Debug\Autor.exe
+C:\Users\ClassUser\Source\Repos\Autor\Autor\bin\Debug\Autor.pdb
+C:\Users\ClassUser\Source\Repos\Autor\Autor\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Source\Repos\Autor\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Source\Repos\Autor\Autor\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Source\Repos\Autor\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Source\Repos\Autor\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\App.g.cs
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Autor.g.resources
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Autor.csproj.CopyComplete
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Autor.exe
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Autor.pdb
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Clietik.g.cs
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Clietik.baml
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Register.g.cs
+C:\Users\ClassUser\Source\Repos\Autor\Autor\obj\Debug\Register.baml
+C:\Users\Nikita\source\repos\Autor\Autor\bin\Debug\Autor.exe.config
+C:\Users\Nikita\source\repos\Autor\Autor\bin\Debug\Autor.exe
+C:\Users\Nikita\source\repos\Autor\Autor\bin\Debug\Autor.pdb
+C:\Users\Nikita\source\repos\Autor\Autor\bin\Debug\EntityFramework.dll
+C:\Users\Nikita\source\repos\Autor\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nikita\source\repos\Autor\Autor\bin\Debug\EntityFramework.xml
+C:\Users\Nikita\source\repos\Autor\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nikita\source\repos\Autor\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Clietik.g.cs
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Register.g.cs
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\App.g.cs
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Clietik.baml
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\MainWindow.baml
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Register.baml
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Autor.g.resources
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Autor.csproj.CopyComplete
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Autor.exe
+C:\Users\Nikita\source\repos\Autor\Autor\obj\Debug\Autor.pdb
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\bin\Debug\Autor.exe.config
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\bin\Debug\Autor.exe
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\bin\Debug\Autor.pdb
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Clietik.g.cs
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Register.g.cs
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\App.g.cs
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Clietik.baml
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Register.baml
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Autor.g.resources
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Autor.csproj.CopyComplete
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Autor.exe
+C:\Users\ClassUser\Source\Repos\Autor 4 (7 11 2021)\Autor\obj\Debug\Autor.pdb
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\bin\Debug\Autor.exe.config
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\bin\Debug\Autor.exe
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\bin\Debug\Autor.pdb
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\bin\Debug\EntityFramework.dll
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\bin\Debug\EntityFramework.xml
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Clietik.g.cs
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Register.g.cs
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\App.g.cs
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Clietik.baml
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\MainWindow.baml
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Register.baml
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Autor.g.resources
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Autor.csproj.CopyComplete
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Autor.exe
+C:\Users\Nikita\source\repos\Autor 5 (9 11 2021)\Autor\obj\Debug\Autor.pdb
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\bin\Debug\Autor.exe.config
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\bin\Debug\Autor.exe
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\bin\Debug\Autor.pdb
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\bin\Debug\EntityFramework.dll
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\bin\Debug\EntityFramework.xml
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Clietik.g.cs
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Register.g.cs
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\App.g.cs
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Clietik.baml
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\MainWindow.baml
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Register.baml
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.g.resources
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.csproj.CopyComplete
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.exe
+C:\Users\Nikita\source\repos\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\bin\Debug\Autor.exe.config
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\bin\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\bin\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Clietik.g.cs
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Register.g.cs
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\App.g.cs
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Clietik.baml
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Register.baml
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.g.resources
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.csproj.CopyComplete
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Autor 6 (16 11 2021)\Autor\obj\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\bin\Debug\Autor.exe.config
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\bin\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\bin\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Clietik.g.cs
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Register.g.cs
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\App.g.cs
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Clietik.baml
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Register.baml
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.g.resources
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.csproj.CopyComplete
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\bin\Debug\Autor.exe.config
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\bin\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\bin\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Clietik.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Register.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\App.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Clietik.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Register.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.g.resources
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.csproj.CopyComplete
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 7 (16 11 2021)\Autor\obj\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\bin\Debug\Autor.exe.config
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\bin\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\bin\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Clietik.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Register.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\App.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Clietik.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Register.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Autor.g.resources
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Autor.csproj.CopyComplete
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\AddUser.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 9 (18 11 2021)\Autor\obj\Debug\AddUser.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\AddUser.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Clietik.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Register.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\App.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\bin\Debug\Autor.exe.config
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\bin\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\bin\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\AddUser.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Clietik.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Register.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Autor.g.resources
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 10 (18 11 2021)\Autor\obj\Debug\Autor.csproj.CopyComplete
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\AddUser.g.cs
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Register.g.cs
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\App.g.cs
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.exe
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.pdb
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Clietik.g.cs
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\bin\Debug\Autor.exe.config
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\bin\Debug\Autor.exe
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\bin\Debug\Autor.pdb
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\bin\Debug\EntityFramework.dll
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\bin\Debug\EntityFramework.xml
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\AddUser.baml
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Clietik.baml
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\MainWindow.baml
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Register.baml
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.g.resources
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.csproj.CopyComplete
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\bin\Debug\Autor.exe.config
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\bin\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\bin\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\AddUser.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Clietik.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Register.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\App.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\AddUser.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Clietik.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Register.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.g.resources
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.csproj.CopyComplete
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\AddUsers.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 11 (19 11 2021)\Autor\obj\Debug\AddUsers.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Autor.csproj.AssemblyReference.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Style.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Clietik.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\MainWindow.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Register.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\App.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Autor_Content.g.cs
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Autor_MarkupCompile.lref
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\bin\Debug\Autor.exe.config
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\bin\Debug\Autor.exe
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\bin\Debug\Autor.pdb
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\bin\Debug\EntityFramework.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\bin\Debug\EntityFramework.xml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\App.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Clietik.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\MainWindow.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Register.baml
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Autor.g.resources
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Autor.Properties.Resources.resources
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Autor.csproj.GenerateResource.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Autor.csproj.CoreCompileInputs.cache
+C:\Users\ClassUser\Desktop\Smirnov 399gr\Autor 12 (22 11 2021)\Autor\obj\Debug\Autor.csproj.CopyComplete

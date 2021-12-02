@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BaseDateModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TypeUsers">
+    <Key>
+      <PropertyRef Name="IdType" />
+    </Key>
+    <Property Name="IdType" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NameType" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DescriptionUser" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Users" Relationship="Self.FK__Users__TypeUsers__19DFD96B" FromRole="TypeUsers" ToRole="Users" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="IdUser" />
+    </Key>
+    <Property Name="IdUser" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Logins" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Passwords" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TypeUserss" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="TypeUsers" Relationship="Self.FK__Users__TypeUsers__19DFD96B" FromRole="Users" ToRole="TypeUsers" />
+  </EntityType>
+  <Association Name="FK__Users__TypeUsers__19DFD96B">
+    <End Role="TypeUsers" Type="Self.TypeUsers" Multiplicity="0..1" />
+    <End Role="Users" Type="Self.Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TypeUsers">
+        <PropertyRef Name="IdType" />
+      </Principal>
+      <Dependent Role="Users">
+        <PropertyRef Name="TypeUserss" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BaseDateEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TypeUsers" EntityType="Self.TypeUsers" />
+    <EntitySet Name="Users" EntityType="Self.Users" />
+    <AssociationSet Name="FK__Users__TypeUsers__19DFD96B" Association="Self.FK__Users__TypeUsers__19DFD96B">
+      <End Role="TypeUsers" EntitySet="TypeUsers" />
+      <End Role="Users" EntitySet="Users" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

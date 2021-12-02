@@ -1,0 +1,185 @@
+﻿<Window x:Class="Autor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Autor"
+        mc:Ignorable="d"
+        Height="330" Width="480"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        AllowsTransparency="True"
+        Background="Transparent"
+        Title="MainWindow">
+
+    <Border Name="newBorder"
+            CornerRadius="10">
+        <Border.Background>
+            <LinearGradientBrush EndPoint="0.5,1"
+                                 StartPoint="0.5,0">
+                <GradientStop Color="#FF23272C"
+                              Offset="0"/>
+                <GradientStop Color="#FF2A2E33"
+                              Offset="1"/>
+                <GradientStop Color="#FF2A2E33"
+                              Offset="0.153"/>
+            </LinearGradientBrush>
+        </Border.Background>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="62"/>
+                <RowDefinition Height="62"/>
+                <RowDefinition Height="76"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Name ="ToolBar"
+                  Grid.Row="0"
+                  Grid.ColumnSpan="2">
+                
+                <TextBlock TextWrapping="Wrap" 
+                           Text="Вход в Пар" 
+                           Foreground="#FF818992" 
+                           FontSize="13" 
+                           Margin="10,0,0,0" 
+                           MouseDown="TextBlock_MouseDown"/>
+
+                <StackPanel Orientation="Horizontal"
+                            HorizontalAlignment="Right">
+                    
+                    <Button Name="Hide"
+                            Content="_"
+                            Click="Hide_Click"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Top"
+                            Width="10"
+                            Background="Transparent"
+                            FontSize="18"
+                            Style="{StaticResource Tools}"/>
+                    
+                    <Button Name="Close"
+                            Content="×"
+                            Click="Close_Click"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Top"
+                            Width="25"
+                            Background="Transparent"
+                            FontSize="20"
+                            Margin="0,0,4,0"
+                            Style="{StaticResource Tools}"/>
+                </StackPanel>
+            </Grid>
+
+            <Image Grid.Row="1" 
+                   Height="50" 
+                   Source="Source/Database.png" 
+                   HorizontalAlignment="Right" />
+
+            <TextBlock Grid.Column="1" 
+                       Grid.Row="1" 
+                       TextWrapping="Wrap" 
+                       Text="Пар" 
+                       Foreground="#FFD5D5D4" 
+                       FontSize="22" 
+                       HorizontalAlignment="Left" 
+                       VerticalAlignment="Center" 
+                       Margin="10,0,0,0"/>
+
+
+            <TextBlock Grid.Column="0" 
+                       HorizontalAlignment="Right" 
+                       Grid.Row="2" 
+                       Text="Имя аккаунта" 
+                       VerticalAlignment="Top" 
+                       Foreground="#FFABACAB"/>
+
+            <TextBlock Grid.Column="0"
+                       HorizontalAlignment="Right" 
+                       Grid.Row="2" 
+                       Text="Пароль" 
+                       VerticalAlignment="Bottom" 
+                       Foreground="#FFABACAB" 
+                       Margin="0,0,0,13"/>
+
+
+            <TextBox x:Name="LogLogin" 
+                     HorizontalAlignment="Left" 
+                     Grid.Column="1" 
+                     Grid.Row="2" 
+                     Height="20" 
+                     VerticalAlignment="Top" 
+                     Width="315" 
+                     Margin="10,0,0,0" 
+                     Background="Transparent" 
+                     BorderBrush="#FF4B5466" 
+                     CaretBrush="White" 
+                     Foreground="White"/>
+
+            <PasswordBox Name="LogPassword" 
+                         HorizontalAlignment="Left" 
+                         Grid.Column="1" 
+                         Grid.Row="2" 
+                         Height="20" 
+                         VerticalAlignment="Bottom" 
+                         Width="315" 
+                         Margin="10,0,0,10" 
+                         Background="Transparent" 
+                         BorderBrush="#FF4B5466" 
+                         Foreground="White"/>
+
+            <StackPanel Grid.Row="3"
+                        Grid.Column="1"
+                        Orientation="Horizontal">
+                
+                <Button x:Name="LogAutor"
+                        Content="Вход"
+                        HorizontalAlignment="Left"
+                        Click="LogAutor_Click"
+                        VerticalAlignment="Center"
+                        Width="160"
+                        Height="22"
+                        BorderBrush="Transparent"/>
+
+                <Button x:Name="LogCancel"
+                        Click="LogCancel_Click"
+                        Content="Отмена"
+                        VerticalAlignment="Center"
+                        Width="160"
+                        Height="22"
+                        HorizontalAlignment="Left"
+                        HorizontalContentAlignment="Left"
+                        BorderBrush="Transparent"
+                        Margin="15,0,0,0"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="4"
+                        Grid.ColumnSpan="2"
+                        Orientation="Horizontal"
+                        HorizontalAlignment="Right"
+                        Margin="0,30,25,0">
+                
+                <TextBlock Text="Нет аккаунта Пар?"
+                           VerticalAlignment="Top"
+                           Foreground="#FFABACAB"/>
+                
+                <Button x:Name="LogRegistered"
+                        Click="LogRegistered_Click"
+                        Content="СОЗДАТЬ НОВЫЙ АККАУНТ..."
+                        VerticalAlignment="Center"
+                        Width="235"
+                        Height="22"
+                        HorizontalAlignment="Left"
+                        HorizontalContentAlignment="Left"
+                        BorderBrush="Transparent"
+                        Margin="15,-2,0,49"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>
+
